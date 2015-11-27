@@ -1,0 +1,19 @@
+{
+  "name": "phonegap-plugin-push-deprecated",
+  "version": "2.5.0",
+  "description": "NPM version of https://github.com/phonegap-build/PushPlugin",
+  "main": "www/PushNotification.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmalard/PushPlugin.git"
+  },
+  "keywords": [
+    "cordova",
+    "push",
+    "plugin",
+    "PushPlugin",
+    "deprecated"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/cmalard/PushPlugin#readme"
+}
