@@ -1,6 +1,6 @@
 {
   "name": "phonegap-plugin-push-deprecated",
-  "version": "2.5.0-pgb",
+  "version": "2.5.0-pgb-1",
   "description": "NPM version of https://github.com/phonegap-build/PushPlugin",
   "main": "www/PushNotification.js",
   "repository": {
