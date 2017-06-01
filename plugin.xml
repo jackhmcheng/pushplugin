@@ -3,9 +3,9 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:amazon="http://schemas.android.com/apk/lib/com.amazon.device.ads"
     xmlns:rim="http://www.blackberry.com/ns/widgets"
-    id="com.phonegap.plugins.PushPlugin"
+    id="phonegap-plugin-push"
     version="2.5.0">
-
+  <!--Original: id="com.phonegap.plugins.PushPlugin"-->
   <name>PushPlugin</name>
 	<author>Bob Easterday</author>
 
